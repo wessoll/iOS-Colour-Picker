@@ -16,3 +16,7 @@ You can change the hue by panning up and down. Adjust the saturation by panning 
 by pinching in and out. 
 
 Please enjoy!
+
+Demo
+=
+https://www.youtube.com/watch?v=MffLzAShawI&feature=youtu.be
