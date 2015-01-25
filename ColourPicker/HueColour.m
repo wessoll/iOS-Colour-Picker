@@ -43,7 +43,7 @@ const double BRIGHTNESS_MAX = 1.0;
 @synthesize alpha = _alpha;
 
 - (instancetype)colorWithHue:(double)hue saturation:(double)saturation brightness:(double)brightness alpha:(double)alpha {
-    
+    self = [super init];
     [self setHue:hue];
     [self setSaturation:saturation];
     [self setBrightness:brightness];
